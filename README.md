@@ -4,8 +4,11 @@ Heart rate and respiration monitor with Unihiker, Beetle ESP32-C6 and mmWave 100
 # Parts required
 
 Beetle ESP32C6 https://www.dfrobot.com/product-2778.html?tracking=hOuIhw4fDaJRTdy4abz04npbQC78dqxBkqVt7XMFYxEXj2s0ukWgm71wbut0ewUP
+
 1001 mmWave sensor https://www.dfrobot.com/product-2861.html?tracking=hOuIhw4fDaJRTdy4abz04npbQC78dqxBkqVt7XMFYxEXj2s0ukWgm71wbut0ewUP
+
 Unihiker https://www.dfrobot.com/product-2691.html?tracking=hOuIhw4fDaJRTdy4abz04npbQC78dqxBkqVt7XMFYxEXj2s0ukWgm71wbut0ewUP
+
 Carrier https://www.dfrobot.com/product-2852.html?tracking=hOuIhw4fDaJRTdy4abz04npbQC78dqxBkqVt7XMFYxEXj2s0ukWgm71wbut0ewUP
 
 # Connections
